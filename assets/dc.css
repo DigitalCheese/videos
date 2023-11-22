@@ -3,6 +3,7 @@ body {background-color:black;background-image:url();color:white;font-size:12px;f
 div.contain {margin:0 auto;max-width:1000px;}
 div.head {background:#292929;text-align:center;font-size:24px;}
 div.main {background:#272727;max-width:1000px;}
+div.video {max-width:200px;height:auto;border:1px white solid;background:#323232;}
 div.extra {background:#131313;}
 div.foot {background:#000;font-size:10px;font-weight:bold;}
 
