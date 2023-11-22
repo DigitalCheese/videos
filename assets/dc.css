@@ -1,4 +1,4 @@
-body {background-color:black;background-image:url();color:white;font-size:12px;font-family:'Arial', 'Helvetica', 'Courier New', 'sans-serif';word-wrap:break-word;margin:0;}
+body {background-color:black;background-image:url();color:white;font-size:12px;font-family:Arial,Helvetica,'Courier New','veranda',sans-serif;word-wrap:break-word;margin:0;}
 
 div.contain {margin:0 auto;max-width:1000px;}
 div.head {background:#292929;text-align:center;font-size:24px;}
