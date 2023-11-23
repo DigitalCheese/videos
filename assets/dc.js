@@ -1,0 +1,1 @@
+function LinkMenu(){if(document.getElementById('LinkMenu').style.display = 'none'){document.getElementById('LinkMenu').style.display = 'block';}}

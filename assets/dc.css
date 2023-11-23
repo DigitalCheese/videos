@@ -1,14 +1,24 @@
-body {background-color:black;background-image:url();color:white;font-size:12px;font-family:Arial,Helvetica,'Courier New','veranda',sans-serif;word-wrap:break-word;margin:0;}
+body {background-color:#333;color:white;font-size:13px;font-family:Arial, Helvetica, 'Courier New', 'veranda', sans-serif;word-wrap:break-word;margin:0}
+.container {margin:0 auto;}
+#LinkMenu {position:absolute;background:#000;max-width:50%;z-index:1;border:1px gold solid;display:none;padding:8px;top:60px;left:20px;width:240px;text-align:center}
+.header {background:#444;border:2px solid;border-color:transparent transparent #FFF transparent;overflow:auto;max-height:80px;padding:4px;display:flex}
+.content {background:#222;padding:2px;max-width:1000px;margin:0 auto}
+.footer {background:#000;font-size:11px;padding:2px;max-width:100%;margin:0 auto}
+.status {background:black;padding:4px;margin:auto;border:2px red solid}
 
-div.contain {margin:0 auto;max-width:1000px;}
-div.head {background:#292929;text-align:center;font-size:24px;}
-div.main {background:#272727;max-width:1000px;}
-div.video {max-width:185px;height:auto;border:1px white solid;background:#323232;float:left;margin:2px}
-div.extra {background:#131313;}
-div.foot {background:#000;font-size:10px;font-weight:bold;}
+#LinkMenu button {background:black;color:white;font-weight:bold}
+.logo {flex:1;float:left;max-width:32px;max-height:32px}
+.usrnme {flex:2;font-size:24px;text-align:center;font-style:italic;}
+.quick-menu {flex:3;float:right;max-width:32px;max-height:32px}
+.video {max-width:185px;height:auto;border:1px white solid;background:#323232;float:left;margin:2px}
 
+h1 {background-color:rgb(20,20,20);text-align:center;}
 a {color:white;}
-
 IMG, video {max-width:100%;height:auto;}
 div.video IMG {width:100%!important;max-height:100px;}
 video {margin:0 auto!important;}
+
+::selection {background:#555;color:white;}
+IMG:hover {filter:hue-rotate(90deg)}
+a:hover {background:#a0c;color:white!important}
+li::marker {content:url('/Media/li-1.png');}
