@@ -2,7 +2,7 @@ body {background-color:#333;color:white;font-size:13px;font-family:Arial, Helvet
 .container {margin:0 auto;}
 #LinkMenu {position:absolute;background:#000;max-width:50%;z-index:1;border:1px gold solid;display:none;padding:8px;top:60px;left:20px;width:240px;text-align:center}
 .header {background:#444;border:2px solid;border-color:transparent transparent #FFF transparent;overflow:auto;max-height:80px;padding:4px;display:flex}
-.content {background:#222;padding:2px;max-width:1000px;margin:0 auto}
+.content {background:#222;padding:2px;max-width:1000px;margin:0 auto;overflow:auto;}
 .footer {background:#000;font-size:11px;padding:2px;max-width:100%;margin:0 auto}
 .status {background:black;padding:4px;margin:auto;border:2px red solid}
 
