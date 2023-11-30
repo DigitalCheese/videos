@@ -5,7 +5,6 @@
 <link>https://videos.digitalcheese.xyz/rss.xml</link>
 <language>en-us</language>
 <description>The video RSS feed for videos I release on this website. This is going to be used in a YouTube-like subscribe system, except unlike it there is only one feed aka channel and it will generally not be that often and only for my shit.</description>
-
     <item>
     <title>Touching The Sky - Digital Cheese</title>
     <pubDate>November 22nd, 2023 at 5:29PM</pubDate>
@@ -27,6 +26,5 @@
     <guid>2023_1.html</guid>
     <description>Yes this is the first video on the website. Very nice :D</description>
     </item>
-
 </channel>
 </rss>
