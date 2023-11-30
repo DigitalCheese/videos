@@ -1,0 +1,32 @@
+<rss version="2.0">
+<channel>
+<atom:link href="https://videos.digitalcheese.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+<title>Digital Cheese's Videos</title>
+<link>https://videos.digitalcheese.xyz/rss.xml</link>
+<language>en-us</language>
+<description>The video RSS feed for videos I release on this website. This is going to be used in a YouTube-like subscribe system, except unlike it there is only one feed aka channel and it will generally not be that often and only for my shit.</description>
+
+    <item>
+    <title>Touching The Sky - Digital Cheese</title>
+    <pubDate>November 22nd, 2023 at 5:29PM</pubDate>
+    <link>https://videos.digitalcheese.xyz/2023/sky.html</link>
+    <guid>2023_sky.html</guid>
+    <description>I also touched the sky.</description>
+    </item>
+    <item>
+    <title>Touching Grass - Digital Cheese</title>
+    <pubDate>November 22nd, 2023 at 5:28PM</pubDate>
+    <link>https://videos.digitalcheese.xyz/2023/grass.html</link>
+    <guid>2023_grass.html</guid>
+    <description>I touched grass once, I'll do it again in 2024</description>
+    </item>
+    <item>
+    <title>First - Digital Cheese</title>
+    <pubDate>November 21st, 2023 at 8:40PM</pubDate>
+    <link>https://videos.digitalcheese.xyz/2023/1.html</link>
+    <guid>2023_1.html</guid>
+    <description>Yes this is the first video on the website. Very nice :D</description>
+    </item>
+
+</channel>
+</rss>
