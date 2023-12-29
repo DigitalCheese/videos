@@ -10,7 +10,7 @@ body {background-color:#333;color:white;font-size:13px;font-family:Arial, Helvet
 .logo {flex:1;float:left;max-width:32px;max-height:32px}
 .usrnme {flex:2;font-size:24px;text-align:center;font-style:italic;}
 .quick-menu {flex:3;float:right;max-width:32px;max-height:32px}
-.video {max-width:185px;height:auto;border:1px white solid;background:#323232;float:left;margin:2px;text-align:center;font-size:10px!important}
+.video {width:170px;height:115px;border:1px white solid;background:#323232;float:left;margin:2px;text-align:center;font-size:10px!important}
 
 h1 {background-color:rgb(20,20,20);text-align:center;}
 a {color:white;}
