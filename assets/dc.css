@@ -15,7 +15,7 @@ body {background-color:#333;color:white;font-size:13px;font-family:Arial, Helvet
 h1 {background-color:rgb(20,20,20);text-align:center;}
 a {color:white;}
 IMG, video {max-width:100%;height:auto;}
-div.video IMG {width:100%!important;max-height:100px;}
+div.video IMG {width:100%!important;max-height:100px;text-align:center;font-size:10px!important}
 video {margin:0 auto!important;}
 
 ::selection {background:#555;color:white;}
